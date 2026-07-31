@@ -272,3 +272,4 @@ nomes embaralhados: `vite.config.js` continha a tela de cadastro, `logo.png`
 era a tela de configurações, `README.md` era o `.gitignore`. Os 34 arquivos
 foram reidentificados pelo conteúdo e realocados. `MAPA-DOS-ARQUIVOS.md`
 guarda o de-para completo.
+
